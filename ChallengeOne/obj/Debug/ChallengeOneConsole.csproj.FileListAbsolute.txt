@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\bin\Debug\ChallengeOne.exe.config
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\bin\Debug\ChallengeOne.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\bin\Debug\ChallengeOne.pdb
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\obj\Debug\ChallengeOneConsole.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\obj\Debug\ChallengeOneConsole.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\obj\Debug\ChallengeOne.exe
+C:\ElevenFiftyProjects\GoldBadgeConsoleAppChallenge\ChallengeOne\obj\Debug\ChallengeOne.pdb
